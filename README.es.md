@@ -1,4 +1,7 @@
-# CleanUserApi  
+# CleanUserApi
+
+[English version](./README.md)
+
 API REST de Usuarios desarrollada con **.NET 8**, **Clean Architecture**, **Entity Framework Core**, **SQL Server LocalDB**, **AutoMapper** y **Swagger**.
 
 Este proyecto fue diseñado como una API moderna, escalable y fácil de extender, ideal como base para microservicios o como ejemplo profesional para portfolios.
