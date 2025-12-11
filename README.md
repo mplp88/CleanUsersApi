@@ -113,7 +113,7 @@ Ejemplo:
 {
   "firstName": "John",
   "lastName": "Doe",
-  "email": "juan@example.com"
+  "email": "john.doe@example.com"
 }
 ```
 
