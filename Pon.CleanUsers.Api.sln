@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pon.CleanUsers.Api", "Pon.CleanUsers.Api\Pon.CleanUsers.Api.csproj", "{9B36D318-6DAE-4AA7-BB18-A6DB5A8739EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pon.CleanUsers.Api", "Pon.CleanUsers.Api\Pon.CleanUsers.Api.csproj", "{9B36D318-6DAE-4AA7-BB18-A6DB5A8739EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pon.CleanUsers.Application", "Pon.CleanUsers.Application\Pon.CleanUsers.Application.csproj", "{54866D1F-18BB-425A-80E2-90B92D49D27E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pon.CleanUsers.Application", "Pon.CleanUsers.Application\Pon.CleanUsers.Application.csproj", "{54866D1F-18BB-425A-80E2-90B92D49D27E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pon.CleanUsers.Domain", "Pon.CleanUsers.Domain\Pon.CleanUsers.Domain.csproj", "{A009E6E0-461B-4E40-B299-1B9FFFBB722A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pon.CleanUsers.Domain", "Pon.CleanUsers.Domain\Pon.CleanUsers.Domain.csproj", "{A009E6E0-461B-4E40-B299-1B9FFFBB722A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pon.CleanUsers.Infrastructure", "Pon.CleanUsers.Infrastructure\Pon.CleanUsers.Infrastructure.csproj", "{D1154B8D-347D-4943-AE48-45C608BEF463}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pon.CleanUsers.Infrastructure", "Pon.CleanUsers.Infrastructure\Pon.CleanUsers.Infrastructure.csproj", "{D1154B8D-347D-4943-AE48-45C608BEF463}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
