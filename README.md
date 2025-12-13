@@ -107,7 +107,7 @@ Returns a user by ID.
 ### POST /api/users
 Creates a new user.
 
-Ejemplo:
+Example:
 
 ```json
 {
@@ -139,7 +139,7 @@ Deletes a user.
 
 ## 👤 Author
 
-Martín Ponce
+### Martín Ponce
 
 Software Developer – .NET / Node.js
 
